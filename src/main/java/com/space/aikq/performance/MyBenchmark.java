@@ -36,6 +36,9 @@ import org.openjdk.jmh.annotations.BenchmarkMode;
 import org.openjdk.jmh.annotations.Mode;
 import org.openjdk.jmh.infra.Blackhole;
 
+/**
+ * 原文link: http://tutorials.jenkov.com/java-performance/jmh.html
+ */
 public class MyBenchmark {
 
     @Benchmark
